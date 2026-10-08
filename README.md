@@ -13,6 +13,7 @@ QC 1년 7개월 · Python · ERP 연동 · AI 에이전트
 - **30초** 재고 확인 시간 — 이전 건당 1~2분 ([재고 대시보드](https://project-hub-youngho.vercel.app/projects/inventory-dashboard))
 - **8배** 엑셀 취합 속도 — 11분 42초 → 1분 27초 실측 ([엑셀 취합·검증기](https://project-hub-youngho.vercel.app/projects/excel-merger))
 - **6개월+** 무보수 운영 — 퇴사 후 유지보수 없이 사용 중 ([재고 대시보드](https://project-hub-youngho.vercel.app/projects/inventory-dashboard))
+- **15% → 90%** 자비스 적절 응답 — 한도 대기 14건 → 0건, 같은 20문항·무료 등급 기준 ([자비스](https://project-hub-youngho.vercel.app/projects/jarvis))
 
 ### 프로젝트
 
